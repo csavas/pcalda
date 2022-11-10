@@ -1,4 +1,4 @@
-# IRIS and Indian Pines PCA and LDA Comparison RESULTS
+# What's the best dimensionality reduction technique and classifier for different datasets?
 ## VARIANCE RATIO
 ### IRIS: 
 Variance Ratio of IRIS Dataset: [0.92461872, 0.05306648]
